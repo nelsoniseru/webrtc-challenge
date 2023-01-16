@@ -18,6 +18,8 @@ Submit a pull request to the following repository using your github account.
 
 [https://github.com/Zarttech-main/webrtc-challenge](https://github.com/Zarttech-main/webrtc-challenge)
 
+Feel Free to restructure the project as you like
+
 Don't bother about responsiveness or nice look !
 
 **NOTE: You are to update the README.md with a proper step by step process on how to run your application.**

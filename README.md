@@ -6,6 +6,7 @@
 - The platform should be able to handle multiple concurrent users and sessions.
 - The platform should be able to handle potential network interruptions and reconnections.
 - The platform should be built using Angular (with TypeScript), HTML, and Angular Material UI or Pure CSS
+- Use backend technology to build your signaling server (preferably node, deno, or any python web framework)
 
 **Evaluation Criteria:**
 

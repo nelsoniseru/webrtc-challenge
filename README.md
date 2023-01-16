@@ -20,4 +20,6 @@ Submit a pull request to the following repository using your github account.
 
 Don't bother about responsiveness or nice look !
 
+**NOTE: You are to update the README.md with a proper step by step process on how to run your application.**
+
 Thanks and Good Luck.

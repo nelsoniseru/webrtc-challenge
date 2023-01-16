@@ -1,27 +1,23 @@
-# AngularHelloWorld
+# Zarttech
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+**Challenge: Build a real-time communication system using WebRTC technology.**
 
-## Development server
+- The platform should support video and audio calls
+- The platform should be able to handle multiple concurrent users and sessions.
+- The platform should be able to handle potential network interruptions and reconnections.
+- The platform should be built using Angular (with TypeScript), HTML, and Angular Material UI or Pure CSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+**Evaluation Criteria:**
 
-## Code scaffolding
+- Functionality: Can the platform handle video and audio calls with multiple users?
+- Scalability: Can the platform handle multiple concurrent users and sessions?
+- Resilience: Can the platform handle potential network interruptions and reconnections?
+- Code Quality: Is the code readable, maintainable, and well-organized?
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Submit a pull request to the following repository using your github account.
 
-## Build
+[https://github.com/Zarttech-main/webrtc-challenge](https://github.com/Zarttech-main/webrtc-challenge)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Don't bother about responsiveness or nice look !
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Thanks and Good Luck.

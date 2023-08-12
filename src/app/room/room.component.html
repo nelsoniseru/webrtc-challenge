@@ -1,0 +1,8 @@
+<div>
+  <h2>Video Call</h2>
+
+  <div id="video-containers">
+    <video *ngFor="let remoteStream of remoteStreams" [srcObject]="remoteStream.stream" class="remote-video" autoplay></video>
+  </div>
+  <video #localVideo autoplay></video>
+</div>

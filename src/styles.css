@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Montserrat', sans-serif; 
+    background:red;
+    background-color: #006653;
+    color: aliceblue;
+ }
+ .center-container {
+    display: grid;
+    place-items: center;
+    height: 15vh; /* Adjust the height as needed */
+  }
+
+  .centered-button {
+    background-color: #f95959 !important;
+    border: 1px solid #f95959 !important;
+  }
+  .index{
+    margin-top:95px
+  }

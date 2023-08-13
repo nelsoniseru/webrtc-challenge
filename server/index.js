@@ -19,7 +19,6 @@ app.get('/', (req, res) => {
   res.send('Server is running.');
 });
 
-const rooms = {};
 
 io.on('connection', socket => {
     console.log("user connected")

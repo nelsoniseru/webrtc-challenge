@@ -9,7 +9,6 @@ export class AppComponent {
   constructor() {}
 
   ngOnInit(): void {
-    // Establish the socket connection here
     
   }
 }
